@@ -1,0 +1,8 @@
+cff-version: 1.0
+message: "If you use this code, please cite it beloy."
+authors:
+  - family-names: Pei
+    given-names: Joshua
+title: "BNFO420 Mutation Co-occurrence Software"
+version: 1.0
+date-released: 2022-12-15
